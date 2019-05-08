@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ffab40</color>
+
+    <color name="side_nav_bar_start_color">#BD3381</color>
+    <color name="side_nav_bar_center_color">#D64661</color>
+    <color name="side_nav_bar_end_color">#D2634F</color>
+
+    <color name="side_nav_bar_auth_start_color">#3492DD</color>
+    <color name="side_nav_bar_auth_center_color">#D3CCD5</color>
+    <color name="side_nav_bar_auth_end_color">#B934DD</color>
+
+    <color name="heart_tint">#F33C75</color>
+
+</resources>
+

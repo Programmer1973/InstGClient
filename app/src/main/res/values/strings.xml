@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InstGClient</string>
+
+    <string name="not_authenticated">Not authorized</string>
+
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">@string/app_name</string>
+
+    <string name="logout">Exit</string>
+
+    <string name="authorization_failure">Authorization failed</string>
+    <string name="access_token_failure">Failed to get access token</string>
+    <string name="user_information_failure">Failed to get user information</string>
+
+</resources>

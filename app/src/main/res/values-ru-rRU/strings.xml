@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ИнстДжиКлайент</string>
+
+    <string name="not_authenticated">Не авторизован</string>
+
+    <string name="navigation_drawer_open">Меню</string>
+    <string name="navigation_drawer_close">@string/app_name</string>
+
+    <string name="logout">Выход</string>
+
+    <string name="authorization_failure">Ошибка авторизации</string>
+    <string name="access_token_failure">Не удалось получить маркер доступа</string>
+    <string name="user_information_failure">Не удалось получить сведения о пользователе</string>
+
+</resources>
